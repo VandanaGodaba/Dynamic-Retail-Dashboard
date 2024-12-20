@@ -107,7 +107,7 @@ These KPIs are displayed dynamically on the dashboard and are automatically upda
 
 The **Dynamic Retail Dashboard** addresses several business problems and provides insights that can guide strategic decisions. Below are the problem statements solved by this dashboard:
 
-### 1. **Total Sales, Profit, Quantity, and Number of Orders**
+### 1. **Total Sales, Profit, Quantity, and Number of Orders and Profit Margin**
 
 #### Steps to Solve:
 1. **PivotTable**: Create a PivotTable to sum the **Sales**, **Profit**, and **Quantity** columns, and count the number of **Order IDs**.
@@ -115,7 +115,8 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 3. **Dynamic Chart**: Create a dynamic KPI chart that updates automatically when new data is added.
 4. **Final Output**: Display the KPIs on the dashboard, representing total sales, profit, quantity, and number of orders.
 
-**Sample Visual**: ![image](https://github.com/user-attachments/assets/5d2e61a4-30df-4c88-86d2-04155a5cabd0)
+**Sample Visual**: ![image](https://github.com/user-attachments/assets/69f82d39-5f18-4540-b021-9e5c0861b00e)
+
 
 ### 2. **Sales and Profit Analysis**
 
