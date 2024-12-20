@@ -115,7 +115,9 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 3. **Dynamic Chart**: Create a dynamic KPI chart that updates automatically when new data is added.
 4. **Final Output**: Display the KPIs on the dashboard, representing total sales, profit, quantity, and number of orders.
 
-**Sample Visual**: ![image](https://github.com/user-attachments/assets/69f82d39-5f18-4540-b021-9e5c0861b00e)
+**Sample Visual**: 
+![image](https://github.com/user-attachments/assets/f2166406-745f-4509-a216-0e849228281a)
+
 
 
 ### 2. **Sales and Profit Analysis**
