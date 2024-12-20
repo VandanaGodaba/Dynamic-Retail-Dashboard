@@ -116,6 +116,7 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 4. **Final Output**: Display the KPIs on the dashboard, representing total sales, profit, quantity, and number of orders.
 
 **Sample Visual**: 
+
 ![image](https://github.com/user-attachments/assets/f2166406-745f-4509-a216-0e849228281a)
 
 
@@ -128,7 +129,10 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 3. **Analysis**: Add slicers for the **Segment** and **Market** to filter the data for a more granular view.
 4. **Final Output**: Display the chart showing sales and profit by category or region.
 
-**Sample Visual**: ![Sales and Profit Analysis](path/to/visual/image)
+**Sample Visual**:
+
+![image](https://github.com/user-attachments/assets/ba5f0a35-b50c-47d3-8df0-9ef322e5ce2f)
+
 
 ### 3. **Category-wise Profit**
 
@@ -137,7 +141,10 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 2. **Pie Chart**: Create a pie chart to visualize the profit distribution by category.
 3. **Final Output**: Display the pie chart on the dashboard, showing the percentage of profit by category.
 
-**Sample Visual**: ![Category-wise Profit](path/to/visual/image)
+**Sample Visual**:
+
+![image](https://github.com/user-attachments/assets/a3bf12d8-56f4-4750-a145-8ccc50a17324)
+
 
 ### 4. **Segment-wise Sales Share**
 
@@ -146,7 +153,9 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 2. **Stacked Bar Chart**: Use a stacked bar chart to show the share of sales by segment.
 3. **Final Output**: Display the stacked bar chart on the dashboard, showing the sales distribution across segments.
 
-**Sample Visual**: ![Segment-wise Sales Share](path/to/visual/image)
+**Sample Visual**:
+
+![image](https://github.com/user-attachments/assets/8b1b4f11-c5e3-4390-b309-2f866c6f2dfb)
 
 ### 5. **Sales by Country**
 
@@ -155,7 +164,10 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 2. **Map Chart**: Create a map chart (or bar chart) that visualizes sales by country.
 3. **Final Output**: Display the chart on the dashboard to show sales distribution across countries.
 
-**Sample Visual**: ![Sales by Country](path/to/visual/image)
+**Sample Visual**:
+
+![image](https://github.com/user-attachments/assets/a486c52d-c82e-4017-b10b-1ed966f01346)
+
 
 ### 6. **Top 5 Subcategories**
 
@@ -167,7 +179,9 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 3. **Bar Chart**: Create a bar chart to display the top 5 subcategories.
 4. **Final Output**: Display the bar chart on the dashboard showing the top 5 subcategories.
 
-**Sample Visual**: ![Top 5 Subcategories](path/to/visual/image)
+**Sample Visual**:
+
+![image](https://github.com/user-attachments/assets/7ea11e17-7f3f-4ccd-b873-273f99887c91)
 
 ### 7. **Bottom 5 Subcategories**
 
@@ -177,7 +191,10 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 3. **Bar Chart**: Create a bar chart to display the bottom 5 subcategories.
 4. **Final Output**: Display the bar chart on the dashboard showing the bottom 5 subcategories.
 
-**Sample Visual**: ![Bottom 5 Subcategories](path/to/visual/image)
+**Sample Visual**:
+
+![image](https://github.com/user-attachments/assets/54823a4a-aa2b-4c6e-b8b5-f8aaed0c123b)
+
 
 ### 8. **Yearly Sales Trend**
 
@@ -186,7 +203,8 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 2. **Line Chart**: Plot a line chart to show the sales trend over the years.
 3. **Final Output**: Display the line chart on the dashboard showing yearly sales trends.
 
-**Sample Visual**: ![Yearly Sales Trend](path/to/visual/image)
+**Sample Visual**:
+
 
 ---
 
