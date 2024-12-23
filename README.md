@@ -207,7 +207,8 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 
 													
 													
-![image](https://github.com/user-attachments/assets/e84f0652-0e6b-455e-8547-22476ee52d15)
+![image](https://github.com/user-attachments/assets/8aa96c3b-5d86-43d1-a9ec-0ae7eb896a11)
+
 
 
 ## Dashboard Features
