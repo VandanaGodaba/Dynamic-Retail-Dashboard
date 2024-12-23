@@ -300,3 +300,8 @@ Here is the detailed data dictionary for each table used in the dashboard.
 |-------------|----------------------------------------------------------------------------|
 | **Person**  | Name of the individual (e.g., employee or sales representative).            |
 | **Region**  | Region associated with the person (e.g., Central, East, West).              |
+#Significance
+* Track perforamance through KPIs.
+* Undestand category, segment, and geographic trends.
+* Made data-driven decisions to optimize operations.
+
