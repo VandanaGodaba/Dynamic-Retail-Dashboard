@@ -30,8 +30,8 @@ This dashboard helps retail businesses track important metrics, analyze sales pe
 - [Dashboard Features](#dashboard-features)
 - [Steps to Create the Dashboard](#steps-to-create-the-dashboard)
 - [Future Steps](#future-steps)
-- [Adding Significance](#Significance)
-- [Adding Visuals](#adding-visuals)
+- [Significance](#Significance)
+- [Adding-Visuals](#adding-visuals)
 
 ---
 
