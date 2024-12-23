@@ -30,6 +30,8 @@ This dashboard helps retail businesses track important metrics, analyze sales pe
 - [Dashboard Features](#dashboard-features)
 - [Steps to Create the Dashboard](#steps-to-create-the-dashboard)
 - [Future Steps](#future-steps)
+- [Adding Significance](#adding-Significance)
+- [Adding Visuals](#adding-visuals)
 - [Data Dictionary](#data-dictionary)
   - [Orders Table Data Dictionary](#orders-table-data-dictionary)
   - [Return Table Data Dictionary](#return-table-data-dictionary)
@@ -253,6 +255,20 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 
 ---
 
+## Significance
+
+- Track perforamance through KPIs.
+- Undestand category, segment, and geographic trends.
+- Made data-driven decisions to optimize operations.
+  
+---
+## Visuals
+- Visuals example for each solved problem statement.
+- Snapshots of the final Dashboard with all components.
+
+![Dashboard](https://github.com/user-attachments/assets/ae53b07d-17fc-456e-b6f8-0f020a5131b6)
+
+
 ## Data Dictionary
 
 Here is the detailed data dictionary for each table used in the dashboard.
@@ -300,10 +316,3 @@ Here is the detailed data dictionary for each table used in the dashboard.
 |-------------|----------------------------------------------------------------------------|
 | **Person**  | Name of the individual (e.g., employee or sales representative).            |
 | **Region**  | Region associated with the person (e.g., Central, East, West).              |
-
-
-**###Significance**
-* Track perforamance through KPIs.
-* Undestand category, segment, and geographic trends.
-* Made data-driven decisions to optimize operations.
-
