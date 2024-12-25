@@ -29,7 +29,7 @@ This dashboard helps retail businesses track important metrics, analyze sales pe
   - [8. Yearly Sales Trend](#8-yearly-sales-trend)
 - [Dashboard Features](#dashboard-features)
 - [Steps to Create the Dashboard](#steps-to-create-the-dashboard)
-- - [Adding-Visuals](#adding-visuals)
+- [Adding-Visuals](#adding-visuals)
 - [Future Steps](#future-steps)
 - [Significance](#Significance)
 
