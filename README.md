@@ -29,9 +29,10 @@ This dashboard helps retail businesses track important metrics, analyze sales pe
   - [8. Yearly Sales Trend](#8-yearly-sales-trend)
 - [Dashboard Features](#dashboard-features)
 - [Steps to Create the Dashboard](#steps-to-create-the-dashboard)
+- - [Adding-Visuals](#adding-visuals)
 - [Future Steps](#future-steps)
 - [Significance](#Significance)
-- [Adding-Visuals](#adding-visuals)
+
 
 ---
 
@@ -242,6 +243,12 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 
 ---
 
+## Visuals
+- Visuals example for each solved problem statement.
+- Snapshots of the final Dashboard with all components.
+
+![Dashboard](https://github.com/user-attachments/assets/ae53b07d-17fc-456e-b6f8-0f020a5131b6)
+
 ## Future Steps
 
 - **Return Analysis**: Add a section to analyze the return rate by product, region, and market.
@@ -252,13 +259,6 @@ The **Dynamic Retail Dashboard** addresses several business problems and provide
 
 ## Significance
 
-- Track perforamance through KPIs.
+- Track performance through KPIs.
 - Undestand category, segment, and geographic trends.
 - Made data-driven decisions to optimize operations.
-  
----
-## Visuals
-- Visuals example for each solved problem statement.
-- Snapshots of the final Dashboard with all components.
-
-![Dashboard](https://github.com/user-attachments/assets/ae53b07d-17fc-456e-b6f8-0f020a5131b6)
